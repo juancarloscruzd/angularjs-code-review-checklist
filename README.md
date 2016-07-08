@@ -1,4 +1,4 @@
-I'm not the author of this amazing checklist, i've only copied in a readable and printable way.
+I'm not the author of this amazing checklist, i've only copied it in a readable and printable way.
 The original site if [here](https://angularcodereview.com/angularjs/)
 
 #Code Style
